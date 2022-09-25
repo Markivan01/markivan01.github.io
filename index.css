@@ -1,0 +1,9 @@
+body {
+    background-image: url(background.png);
+}
+
+#bday {
+    color: rgb(132, 0, 255);
+    text-align: center;
+    font-size: 70px;
+}
