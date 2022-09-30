@@ -50,3 +50,12 @@ img {
 .clear {
     clear: both;
 }
+
+.lyrics {
+    text-align: center;
+    margin-left: 30%;
+    margin-right: 30%;
+    background-color: white;
+    border-radius: 10px;
+    font-size: 30px;
+}
